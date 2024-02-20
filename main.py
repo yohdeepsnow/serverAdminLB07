@@ -9,7 +9,18 @@ def pengurangan(a,b):
 	total = a - b
 	return total
 
+def perkalian(a,b):
+	total = a * b
+	return total
+
+
+def pembagian(a,b):
+	total = a / b
+	return total
+	
 def main():
 	print(penambahan(10,5))
 	print(pengurangan(10,5))
+	print(perkalian(3,3))
+	print(pembagian(3,3))
 main()
