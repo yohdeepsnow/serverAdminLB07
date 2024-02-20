@@ -10,7 +10,7 @@ def pengurangan(a,b):
 	return total
 def perkalian(a,b):
 	total = a * b
-	return perkalian
+	return total
 def main():
 	print(penambahan(10,5))
 	print(pengurangan(10,5))
