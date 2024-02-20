@@ -22,4 +22,5 @@ def main():
 	print(pengurangan(10,5))
 	print(perkalian(10,5))
 	print(pembagian(10,5))
+
 main()
